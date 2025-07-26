@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👾 CyroVenom
 
-<!--
-**Mijaz9/Mijaz9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Enthusiast | Technical Explorer | Constantly Evolving**
 
-Here are some ideas to get you started:
+Welcome to my GitHub space — a collection of my cybersecurity learning journey, tools, experiments, and practical labs. I'm driven by curiosity, precision, and the pursuit of mastering the technical layers that secure digital infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔐 What You'll Find Here:
+
+- 🛠️ **Practical Labs:** Hands-on projects covering scanning, exploitation, and enumeration
+- 🧠 **Write-ups & Notes:** Structured documentation of training content and key concepts
+- 💡 **Scripts & Tools:** Custom utilities, automation scripts, and network testing tools
+- 📁 **Organized Repositories:** Clean folders for each topic to keep everything structured and easy to explore
+
+---
+
+### 🧭 Goals:
+
+- Deliver high-quality, well-documented work
+- Focus on practical cybersecurity skills
+- Keep improving without overhyping — let the work speak
+
+---
+
+### 📡 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/memoona-ijaz-8a2a27233)
+- [GitHub](https://github.com/Mijaz9)
+
+---
+
+> 🧠 Logs don’t lie — neither does consistent effort.
